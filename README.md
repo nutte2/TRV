@@ -11,10 +11,10 @@ Kontakt: kalle.prorok@gmail.com
 
 Lite om projektet; vi använder Googles språkmodell BERT som anropas via Pythonkodbiblioteket PyTorch från Facebook/Microsoft för att utföra uppgifterna och körs via beräkningsprogramvaran CUDA på Nvidias GPU grafikkort (RTX A5000), tack vare det kortet går sökningarna ca 100 gånger fortare så väntetiden/dokument går ner från ca 1200 s till rimliga 12 s. Språkmodellerna har skapats av Kungliga biblioteket (KB) som använt stora delar av vad som skrivits 1940 - 2019 för att träna upp dem och de tillhandahålls via Huggingface.
 
-Orginaldokumenten finns på https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Norrbotniabanan/
--
--
-resp https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Ostlanken/
+Orginaldokumenten finns på https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Norrbotniabanan/ (sträckan Umeå- Dåva)
+-  https://www.trafikverket.se/contentassets/e4edb40590bc47fcae6541b8fb0a17be/miljokonsekvensbeskrivning5.pdf
+-https://www.trafikverket.se/contentassets/e4edb40590bc47fcae6541b8fb0a17be/180704_planbeskrivning.pdf
+resp https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Ostlanken/ (Södertälje - Trosa resp Nyköping)
 - https://www.trafikverket.se/contentassets/465639bc7e8741a7b383517d1490c88f/g_l_mkb_20191001_lu.pdf
 - https://www.trafikverket.se/contentassets/18aa3b0f11d64ae785432167714a24bc/nykopings-resecentrum/faststallelse/nykrc_jarnvagsplanbeskrivning_20200331.pdf
 och man kan läsa om KB-Bert på https://github.com/Kungbib/swedish-bert-models
