@@ -9,7 +9,9 @@ Du kan nå den och testa lite via en web-applikation som finns här: https://tra
 
 Kontakt: kalle.prorok@gmail.com
 
-Lite om projektet; vi använder Googles språkmodell BERT som anropas via Pythonkodbiblioteket PyTorch från Facebook/Microsoft och körs via beräkningsprogramvaran CUDA på Nvidias grafikkort (RTX A5000). Språkmodellerna har skapats av Kungliga biblioteket (KB) som använt stora delar av vad som skrivits 1940 - 2019 för att träna upp dem och de tillhandahålls via Huggingface.
+Lite om projektet; vi använder Googles språkmodell BERT som anropas via Pythonkodbiblioteket PyTorch från Facebook/Microsoft för att utföra uppgifterna och körs via beräkningsprogramvaran CUDA på Nvidias GPU grafikkort (RTX A5000), tack vare det kortet går sökningarna ca 100 gånger fortare så väntetiden/dokument går ner från ca 1200 s till rimliga 12 s. Språkmodellerna har skapats av Kungliga biblioteket (KB) som använt stora delar av vad som skrivits 1940 - 2019 för att träna upp dem och de tillhandahålls via Huggingface.
 
-
+Orginaldokumenten finns på https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Norrbotniabanan/
+resp https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Ostlanken/
+och man kan läsa om KB-Bert på https://github.com/Kungbib/swedish-bert-models
 
