@@ -14,6 +14,7 @@ Lite om projektet; vi använder Googles språkmodell BERT som anropas via Python
 Orginaldokumenten finns på https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Norrbotniabanan/ (sträckan Umeå- Dåva)
 -  https://www.trafikverket.se/contentassets/e4edb40590bc47fcae6541b8fb0a17be/miljokonsekvensbeskrivning5.pdf
 -https://www.trafikverket.se/contentassets/e4edb40590bc47fcae6541b8fb0a17be/180704_planbeskrivning.pdf
+
 resp https://www.trafikverket.se/nara-dig/projekt-i-flera-lan/Ostlanken/ (Södertälje - Trosa resp Nyköping)
 - https://www.trafikverket.se/contentassets/465639bc7e8741a7b383517d1490c88f/g_l_mkb_20191001_lu.pdf
 - https://www.trafikverket.se/contentassets/18aa3b0f11d64ae785432167714a24bc/nykopings-resecentrum/faststallelse/nykrc_jarnvagsplanbeskrivning_20200331.pdf
